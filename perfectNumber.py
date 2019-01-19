@@ -5,8 +5,7 @@ temp = 0
 for i in range(1,number):
     if(number % i == 0 ):
         temp += i
-    else:
-        break
+    
 if(temp==number):
     print(''+str(number)+' is perfect number')
 else:
