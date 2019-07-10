@@ -1,8 +1,8 @@
-name = input()
-if name == 'Fatin Sirat Sourav':
-    print('Hi! '+name)
-elif:
-    print('Wrong person')
+n = int(input())
+if n == 1:
+    print(n)
+elif n>=1:
+    print(n)
 else:
     print('Sorry!')
     
